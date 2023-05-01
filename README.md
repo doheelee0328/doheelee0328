@@ -3,7 +3,7 @@
 
 <h3 size="100" align="center">About Me :princess:</h3>
 <ul>
-<li align="left"><strong>Education :school: </strong>: I graduated from Coventry University with a degree in Aviation Management, but I discovered my true passion in the world of software engineering and decided to pursue it further due to the perfect mix of creativity and problem-solving. While making the switch from Aviation Management to software engineering was a significant decision, I am confident that it was the right one. I am excited to continue learning and growing in this field. </li>
+<li align="left"><strong>Education :school: </strong>: I graduated from Coventry University with a degree in Aviation Management, but I discovered my true passion in the world of software engineering and decided to pursue it further due to the perfect mix of creativity and problem-solving. </li>
  <br>
 <li align="left"> <strong> Experience :muscle:</strong>:  I am now a tech trainee at La Fosse Academy, where I am gaining hands-on experience in various areas of web development.  Through this role, I have been able to work on a variety of projects, including building full-stack web applications.  </li>
   <br>
