@@ -15,6 +15,16 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <!-- Frontend Development -->
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  table td {
+    border: none;
+    padding: 10px;
+  }
+</style>
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr>
