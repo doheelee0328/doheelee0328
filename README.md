@@ -90,7 +90,14 @@
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
       </a>
       <br>
-      Jest Testing
+      Jest 
+    </td>
+     <td align="center">
+      <a href="https://www.npmjs.com/package/supertest" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/visionmedia/supertest/master/docs/logo.png" alt="supertest" width="40" height="40"/>
+      </a>
+      <br>
+      Supertest
     </td>
   </tr>
 </table>
