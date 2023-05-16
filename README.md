@@ -82,3 +82,15 @@
     </td>
   </tr>
 </table>
+<h3 align="center">Testing Tools:</h3>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+      </a>
+      <br>
+      Jest Testing
+    </td>
+  </tr>
+</table>
