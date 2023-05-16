@@ -16,9 +16,8 @@
 <h2 align="center">Languages and Tools:</h2>
 <table align="center">
   <tr>
-     <h3 align="center">Frontend Development:</h3>
     <td align="center">
-      <p align="center">Frontend Development:</p>
+      <p align="center">Frontend</p>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
       </a>
@@ -33,7 +32,7 @@
       </a>
     </td>
     <td align="center">
-      <strong>Backend:</strong>
+   <p align="center">Backend</p>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
       </a>
@@ -52,14 +51,11 @@
       MongoDB
     </td>
     <td align="center">
-      <strong>Testing:</strong>
+      <strong>Testing</strong>
       <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
       </a>
       Jest
-      <a href="https://www.npmjs.com/package/supertest" target="_blank" rel="noreferrer">
-        Supertest
-      </a>
     </td>
   </tr>
 </table>
