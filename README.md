@@ -1,6 +1,6 @@
 ![Group 2](https://user-images.githubusercontent.com/112406576/235497274-02aad5ad-ff73-40d5-9c83-c4be00f1bfee.png)
 
-<h2 align="center">Portfolio:https://doheeportfolio.netlify.app/</h2>
+<h6 align="center">Portfolio:https://doheeportfolio.netlify.app/</h6>
 <ul>
 <li align="left"><strong>Education :school: </strong>: I graduated from Coventry University with a degree in Aviation Management, but I discovered my true passion in the world of software engineering and decided to pursue it further due to the perfect mix of creativity and problem-solving. </li>
  <br>
