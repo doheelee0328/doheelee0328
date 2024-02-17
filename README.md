@@ -67,4 +67,3 @@
 <h2 align="center">Github Status:</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doheelee0328&" alt="doheelee0328" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doheelee0328&show_icons=true&locale=en" alt="doheelee0328" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doheelee0328&show_icons=true&locale=en&layout=compact" alt="doheelee0328" /></p>
