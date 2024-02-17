@@ -65,7 +65,9 @@
 </table>
 
 <h2 align="center">Github Status:</h2>
-<div style="text-align: center;">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=doheelee0328&show_icons=true&locale=en&layout=compact" alt="doheelee0328" /></p>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=doheelee0328&show_icons=true&locale=en" alt="doheelee0328" /></p>
+<div style="display: flex; justify-content: center;">
+    <div>
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=doheelee0328&show_icons=true&locale=en&layout=compact" alt="doheelee0328" /></p>
+        <p><img src="https://github-readme-stats.vercel.app/api?username=doheelee0328&show_icons=true&locale=en" alt="doheelee0328" /></p>
+    </div>
 </div>
