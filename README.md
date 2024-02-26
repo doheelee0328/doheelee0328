@@ -69,6 +69,9 @@
  <tr>
   <td>
     <p><img src="https://github-readme-stats.vercel.app/api?username=doheelee0328&show_icons=true&locale=en" alt="doheelee0328" /></p>
+  </td>
+    <td>
+
    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=doheelee0328&show_icons=true&locale=en&layout=compact" alt="doheelee0328" /></p>
   </td>
  </tr>
