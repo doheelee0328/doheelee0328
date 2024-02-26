@@ -14,7 +14,7 @@
 </ul>
 
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages and Tools</h2>
 <table align="center">
   <tr>
     <td align="center">
@@ -64,8 +64,10 @@
   </tr>
 </table>
 
-<h2 align="center">Github Status:</h2>
-<center>
+<h2 align="center">Github Status</h2>
+<table align="center">
+ <tr>
     <p><img src="https://github-readme-stats.vercel.app/api?username=doheelee0328&show_icons=true&locale=en" alt="doheelee0328" /></p>
    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=doheelee0328&show_icons=true&locale=en&layout=compact" alt="doheelee0328" /></p>
-</center>
+ </tr>
+</table>
