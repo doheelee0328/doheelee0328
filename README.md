@@ -4,7 +4,7 @@
 <ul>
 <li align="left"><strong>Education :school: </strong>: I graduated from Coventry University with a degree in Aviation Management, but I discovered my true passion in the world of software engineering and decided to pursue it further due to the perfect mix of creativity and problem-solving. Later, I joined 12 weeks intensive coding bootcamp called La Fosse Academy, where I gained hands-on experience in various areas of web development.</li>
  <br>
-<li align="left"> <strong> Experience :muscle:</strong>:  I am currently thriving as a Frontend Developer at Genius Hub. In this role, I focus on crafting user-friendly and interactive web experiences while continuously sharpening my skills. I'm passionate about contributing to exciting projects that not only meet but exceed user expectations.</li>
+<li align="left"> <strong> Experience :muscle:</strong>:  I am currently a Junior Software Engineer at Intercede. I'm passionate about contributing to exciting projects that not only meet but exceed user expectations.</li>
   <br>
 <li align="left"> <strong> Skills :computer: </strong>: I'm currently diving into the exciting worlds of both frontend and backend development, and I'm finding the experience to be incredibly enjoyable! I'm particularly fascinated by the challenges and problem-solving involved in both areas. </li>
   <br>
